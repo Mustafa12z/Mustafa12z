@@ -1,5 +1,8 @@
 # 💫 About Me:
-# Hi 👋, I'm Mustafa<br><br>- 🎓 I am currently an undergrad student studying **Software Engineering** with a passion for **DevOps**.<br>- 🚀 Currently learning tools such as **Linux**, **AWS**, **Docker**, etc., and will document my journey here.<br>- 💻 Worked with **Java**, **JavaScript**, **Python**, **SQL**, **Bootstrap**, **Express**, and **Node.js**.<br><br>
+# Hi 👋, I'm Mustafa  
+
+- 🚀 I’m a **Platform Engineer** with proficiency in tools like **Linux**, **Bash**, **Git**, **Docker**, **AWS**, **Kubernetes**, and **Azure**.  
+- 📜 I hold the **Kubernetes Trifecta** (**CKA**, **CKAD**, **CKS**).
 
 
 ## 🌐 Socials:
