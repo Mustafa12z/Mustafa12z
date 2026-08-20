@@ -2,7 +2,7 @@
 # Hi 👋, I'm Mustafa  
 
 - 🚀 I’m a **Senior Devops Engineer** with proficiency in tools like **Linux**, **Bash**, **Git**, **Docker**, **AWS**, **Kubernetes**, and **Azure**.  
-- 📜 I hold the **Kubernetes Trifecta** (**CKA**, **CKAD**, **CKS**).
+- 📜 I hold **Kubestronaut** (**CKA**, **CKAD**, **CKS**, **KCNA**, **KCSA**).
 
 
 ## 🌐 Socials:
