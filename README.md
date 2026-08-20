@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi 👋, I'm Mustafa  
 
-- 🚀 I’m a **Platform Engineer** with proficiency in tools like **Linux**, **Bash**, **Git**, **Docker**, **AWS**, **Kubernetes**, and **Azure**.  
+- 🚀 I’m a **Senior Devops Engineer** with proficiency in tools like **Linux**, **Bash**, **Git**, **Docker**, **AWS**, **Kubernetes**, and **Azure**.  
 - 📜 I hold the **Kubernetes Trifecta** (**CKA**, **CKAD**, **CKS**).
 
 
